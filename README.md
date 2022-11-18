@@ -1,5 +1,4 @@
-
-![logo3](https://user-images.githubusercontent.com/109177230/200643902-50c202de-6848-4b54-9e96-11bbc879f1cb.png)
+<p align="center"><img src="logo-repo.png" width="300"></p>
 
 ## About Laravel Forum
 
