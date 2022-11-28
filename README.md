@@ -1,4 +1,4 @@
-<p align="center"><img src="logo.svg" width="300"></p>
+<p align="center"><img src="logo.svg" width="300" alt=""></p>
 
 ## About Laravel Forum
 
